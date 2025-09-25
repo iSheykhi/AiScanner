@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">اسکنر تصاویر</string>
+    <string name="image_scanner">اسکنر تصاویر</string>
+    <string name="no_image_selected">هیچ تصویری انتخاب نشده</string>
+    <string name="tap_plus_to_start">برای شروع دکمه + را فشار دهید</string>
+    <string name="image_selected">تصویر انتخاب شده</string>
+    <string name="add_image">افزودن تصویر</string>
+    <string name="select_image">انتخاب تصویر</string>
+    <string name="camera">دوربین</string>
+    <string name="take_new_photo">گرفتن عکس جدید</string>
+    <string name="select_camera">انتخاب دوربین</string>
+    <string name="gallery">گالری</string>
+    <string name="select_from_storage">انتخاب از حافظه داخلی</string>
+    <string name="select_from_gallery">انتخاب از گالری</string>
+    <string name="image_metadata">مشخصات تصویر</string>
+    <string name="file_name">نام فایل</string>
+    <string name="file_size">حجم فایل</string>
+    <string name="dimensions">ابعاد</string>
+    <string name="date_time">تاریخ و زمان</string>
+    <string name="camera_info">دوربین</string>
+    <string name="location">مکان</string>
+    <string name="focal_length">فاصله کانونی</string>
+    <string name="aperture">دیافراگم</string>
+    <string name="shutter_speed">سرعت شاتر</string>
+    <string name="iso">ISO</string>
+    <string name="flash">فلاش</string>
+    <string name="unknown">نامشخص</string>
+</resources>
